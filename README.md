@@ -1,5 +1,7 @@
 # Proxmox Vibe-Pi VM (x86, headless)
 
+![CI](https://github.com/hulki-bot/proxmox-vibe-pi-vm/actions/workflows/ci.yml/badge.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![Platform](https://img.shields.io/badge/Platform-Proxmox%20VE-blue)
+
 A clean, reproducible setup for a **headless Linux VM on Proxmox** that feels close to a Raspberry-Pi-style terminal workflow — ideal for:
 
 - VS Code Remote SSH
