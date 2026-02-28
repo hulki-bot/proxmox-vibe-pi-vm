@@ -95,6 +95,7 @@ Serial mode is also available for pure headless setups.
 - `scripts/set-console-mode.sh` – switch `vga` between `virtio|std|serial`
 - `docs/TROUBLESHOOTING.md` – fixes for common issues
 - `docs/ARCHITECTURE.md` – x86 VM vs Raspberry Pi explanation
+- `docs/EXAMPLE_CONFIG.md` – exact profile used in the blog/video prep
 
 ---
 
